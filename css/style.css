@@ -1,0 +1,10 @@
+.card-title {
+  color: #333; /* default color */
+  transition: color 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
+}
+
+.card-title:hover {
+  color: orange;         /* change color on hover */
+  transform: scale(1.01); /* slight zoom effect */
+}

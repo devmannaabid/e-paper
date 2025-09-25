@@ -1,0 +1,58 @@
+/* ===== Basic Colors ===== */
+.text-red { color: red; }
+.bg-red { background-color: red; }
+.text-green { color: green; }
+.text-yellow { color: yellow; }
+.text-orange { color: orange; }
+.text-purple { color: purple; }
+.text-blue { color: blue; }
+.text-indigo { color: indigo; }
+.text-violet { color: violet; }
+.text-purple { color: purple; }
+.text-pink { color: pink; }
+.text-brown { color: brown; }
+.text-cyan { color: cyan; }
+.text-teal { color: teal; }
+.text-lime { color: lime; }
+.text-olive { color: olive; }
+.text-navy { color: navy; }
+.text-maroon { color: maroon; }
+
+/* ===== Gray Scale ===== */
+.text-white { color: white; }
+.bg-white { background-color: #f7f3f3; }
+.text-black { color: black; }
+.bg-black { background-color: black; }
+.text-gray { color: gray; }
+.bg-gray { background-color: rgb(209, 209, 209); }
+.text-lightgray { color: lightgray; }
+.text-darkgray { color: darkgray; }
+.text-silver { color: silver; }
+.text-dimgray { color: dimgray; }
+.text-slategray { color: slategray; }
+
+/* ===== Bootstrap Semantic Colors ===== */
+.text-primary { color: #007bff; }
+.text-secondary { color: #6c757d; }
+.text-success { color: #28a745; }
+.text-danger { color: #dc3545; }
+.text-warning { color: #ffc107; }
+.text-info { color: #17a2b8; }
+.text-light { color: #f8f9fa; }
+.text-dark { color: #343a40; }
+
+/* ===== Extra Shades ===== */
+.text-gold { color: gold; }
+.text-skyblue { color: skyblue; }
+.text-deeppink { color: deeppink; }
+.text-hotpink { color: hotpink; }
+.text-turquoise { color: turquoise; }
+.text-aqua { color: aqua; }
+.text-coral { color: coral; }
+.text-crimson { color: crimson; }
+.text-royalblue { color: royalblue; }
+.text-darkblue { color: darkblue; }
+.text-darkgreen { color: darkgreen; }
+.text-darkred { color: darkred; }
+.text-darkorange { color: darkorange; }
+.text-darkviolet { color: darkviolet; }
